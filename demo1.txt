@@ -1,0 +1,7 @@
+The weather is cloudy.
+The weather was sunny.
+The weather was rainy.
+The dog barks.
+The dog runs.
+The dog walks.
+The dog jumps.
